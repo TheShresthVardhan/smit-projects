@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Java
+*.class
+*.jar
+*.war
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Node/Web
+node_modules/
+dist/
+build/
+
+# Android
+.gradle/
+local.properties
+.idea/
+*.iml
+*.apk
+*.aar
+.cxx/
+captures/
+
+# JetBrains IDEs
+*.iws
+*.ipr
+*.iml
